@@ -17,12 +17,12 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'UvA DL Notebooks'
-copyright = '2022, Phillip Lippe'
-author = 'Phillip Lippe'
+project = 'DiS Research Computing'
+copyright = '2024, Boris Bolliet, James Fergusson'
+author = 'Boris Bolliet, James Fergusson'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1.2'
+release = 'v1.0'
 
 
 # -- General configuration ---------------------------------------------------
