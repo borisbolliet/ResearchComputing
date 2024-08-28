@@ -34,6 +34,15 @@ Material
    material/lecture1/notebook
    material/lecture2/notebook
 
+
+.. toctree::
+   :caption: Example Classes
+   :maxdepth: 2
+
+   material/ec1/notebook
+   material/ec2/notebook
+
+
 .. toctree::
    :caption: Miscellaneous
    :maxdepth: 2
