@@ -17,12 +17,12 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'DiS Research Computing'
-copyright = '2024, Boris Bolliet, James Fergusson'
-author = 'Boris Bolliet, James Fergusson'
+project = 'UoC MPhil DiS Research Computing'
+copyright = '2024, Boris Bolliet'
+author = 'Boris Bolliet'
 
 # The full version, including alpha/beta/rc tags
-release = 'v1.0'
+release = 'beta'
 
 
 # -- General configuration ---------------------------------------------------
