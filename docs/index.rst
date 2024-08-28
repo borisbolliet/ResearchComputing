@@ -31,14 +31,14 @@ Material
    :caption: Lectures
    :maxdepth: 2
 
-   material/lecture1/MakingNeuralNetsEmulators
-   material/lecture2/MakingNeuralNetsEmulators
+   material/lecture1/notebook
+   material/lecture2/notebook
 
 .. toctree::
    :caption: Miscellaneous
    :maxdepth: 2
 
-   material/misc/MakingNeuralNetsEmulators
+   material/misc1/notebook
 
 
 
