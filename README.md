@@ -1,4 +1,4 @@
-UvA Deep Learning Tutorials
+Cambridge MPhil DiS Research Computing
 ===========================
 
 *Note: To look at the notebooks in a nicer format, visit our RTD website: https://uvadlc-notebooks.readthedocs.io/en/latest/*
