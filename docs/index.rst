@@ -49,7 +49,6 @@ Material
    :caption: Miscellaneous
    :maxdepth: 3
 
-   material/misc1/notebook
    material/misc1/FTimage2d
 
 
