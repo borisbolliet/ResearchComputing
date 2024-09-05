@@ -1,2 +1,6 @@
 .DS_Store
 docs/material/misc1/.ipynb_checkpoints/FTimage2d-checkpoint.ipynb
+docs/material/data 
+.ipynb_checkpoints
+saved_models
+docs/material/misc1/Optimization_and_Initialization.ipynb
