@@ -50,6 +50,7 @@ Material
    :maxdepth: 3
 
    material/misc1/FTimage2d
+   material/misc1/convolutions
 
 
 
