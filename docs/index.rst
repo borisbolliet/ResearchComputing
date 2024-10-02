@@ -34,6 +34,8 @@ Material
    :maxdepth: 3
 
    material/lecture1/notebook
+   material/lecture1/notebook_camhpc
+   material/lecture1/notebook_camhpc_cosmo
    material/lecture2/notebook
 
 
