@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Research Computing and Software Developpment
+Research Computing and Software Development
 ===========================================
 
 | *Author*: Boris Bolliet
@@ -18,12 +18,9 @@ Schedule
 +------------------------------------------+---------------------------------------------------------------+
 | **Date**                                 | **Content**                                                   |
 +------------------------------------------+---------------------------------------------------------------+
-| day, month 2024, 15:00-16:00             | L1: Introduction to Linux                                     |
+| Friday 11, October 2024, 11:00-12:00     | L1: Introduction to Linux and working with HPC systems        |
 +------------------------------------------+---------------------------------------------------------------+
-| day, month 2024, 15:00-16:00             | L2: Introduction to Python                                    |
-+------------------------------------------+---------------------------------------------------------------+
-| day, month 2024, 15:00-16:00             | EC1: Example Class 1                                          |
-+------------------------------------------+---------------------------------------------------------------+
+
 
 
 Material
@@ -36,7 +33,8 @@ Material
    material/lecture1/notebook
    material/lecture1/notebook_camhpc
    material/lecture1/notebook_camhpc_cosmo
-   material/lecture2/notebook
+   material/lecture2/notebook_google_colab
+   material/lecture2/notebook_python_packages
 
 
 .. toctree::
