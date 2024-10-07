@@ -9,7 +9,7 @@ Research Computing and Software Development
 | *Author*: Boris Bolliet
 
 .. note::
-   Place holder for Teaching Material for MPhil DiS 2024/2025 at the University of Cambridge 
+   Teaching Schedule and Material for the MPhil in Dat Intensive Science 2024/2025 at the University of Cambridge 
 
 
 Schedule 
@@ -41,16 +41,16 @@ Material
    :caption: Example Classes
    :maxdepth: 3
 
-   material/ec1/notebook
-   material/ec2/notebook
+   .. material/ec1/notebook
+   .. material/ec2/notebook
 
 
 .. toctree::
    :caption: Miscellaneous
    :maxdepth: 3
 
-   material/misc1/FTimage2d
-   material/misc1/convolutions
+   .. material/misc1/FTimage2d
+   .. material/misc1/convolutions
 
 
 
