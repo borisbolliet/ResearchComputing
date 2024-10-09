@@ -9,7 +9,7 @@ Research Computing and Software Development
 | *Author*: Boris Bolliet
 
 .. note::
-   Teaching Schedule and Material for the MPhil in Dat Intensive Science 2024/2025 at the University of Cambridge 
+   Teaching Schedule and Material for the MPhil in Dat Intensive Science, Michaelmas Term 2024 at the University of Cambridge 
 
 
 Schedule 
@@ -18,7 +18,7 @@ Schedule
 +------------------------------------------+---------------------------------------------------------------+
 | **Date**                                 | **Content**                                                   |
 +------------------------------------------+---------------------------------------------------------------+
-| Friday 11, October 2024, 11:00-12:00     | L1: Introduction to Linux and working with HPC systems        |
+| Friday 11, October 2024, 11:00-12:00     | Lecture 1: Getting started        |
 +------------------------------------------+---------------------------------------------------------------+
 
 
@@ -31,26 +31,26 @@ Material
    :maxdepth: 3
 
    material/lecture1/notebook
-   material/lecture1/notebook_camhpc
-   material/lecture1/notebook_camhpc_cosmo
-   material/lecture2/notebook_google_colab
-   material/lecture2/notebook_python_packages
+..    material/lecture1/notebook_camhpc
+..    material/lecture1/notebook_camhpc_cosmo
+..    material/lecture2/notebook_google_colab
+..    material/lecture2/notebook_python_packages
 
 
-.. toctree::
-   :caption: Example Classes
-   :maxdepth: 3
+.. .. toctree::
+..    :caption: Example Classes
+..    :maxdepth: 3
 
-   .. material/ec1/notebook
-   .. material/ec2/notebook
+..    .. material/ec1/notebook
+..    .. material/ec2/notebook
 
 
-.. toctree::
-   :caption: Miscellaneous
-   :maxdepth: 3
+.. .. toctree::
+..    :caption: Miscellaneous
+..    :maxdepth: 3
 
-   .. material/misc1/FTimage2d
-   .. material/misc1/convolutions
+..    .. material/misc1/FTimage2d
+..    .. material/misc1/convolutions
 
 
 
