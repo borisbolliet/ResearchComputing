@@ -58,7 +58,7 @@ module load rhel8              # REQUIRED - loads the basic environment
 #! the following modules are required to run so-lenspipe and NaMaster 
 
 #! Full path to application executable: 
-application="/home/bb667/host_jupyter/job_script_content.sh"
+application="/home/gsf29/host_jupyter/job_script_content.sh"
 
 #! Run options for the application:
 options=""
