@@ -26,6 +26,7 @@ Schedule
 .. toctree::
    :caption: Lectures
    :maxdepth: 2
+   :numbered:
 
    material/lecture1/notebook
 ..    material/lecture1/gitlab
