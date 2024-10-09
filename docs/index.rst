@@ -25,10 +25,10 @@ Schedule
 
 .. toctree::
    :caption: Lectures
-   :maxdepth: 3
+   :maxdepth: 2
 
    material/lecture1/notebook
-   material/lecture1/gitlab
+..    material/lecture1/gitlab
 ..    material/lecture1/notebook_camhpc
 ..    material/lecture1/notebook_camhpc_cosmo
 ..    material/lecture2/notebook_google_colab
