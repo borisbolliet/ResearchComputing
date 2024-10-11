@@ -68,3 +68,15 @@ nbsphinx_execute_arguments = [
     "--InlineBackend.rc={'figure.dpi': 96}",
 ]
 # pygments_style = 'sphinx'
+
+
+# Disable section numbering
+secnumber_suffix = ''  # No suffix means no section numbers
+# numfig = False  # Disable figure/table numbering if you don't need them
+
+
+exclude_patterns = [
+    # 'material/tbd/notebook_camhpc_cosmo.ipynb',  # Exclude specific file
+    'material/tbd/*',  # Exclude all files in the 'tbd' folder
+    'material/lecture1/gitlab.ipynb',
+]
