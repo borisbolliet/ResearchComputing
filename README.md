@@ -8,8 +8,5 @@ The course moodle is [here](https://www.vle.cam.ac.uk/course/view.php?id=252189)
 
 Based on material from many sources, including:
 - James Fergusson's lecture notes (private communication)
-- UvA Deep Learning course, 2023 (Phillip Lippe's amazing tutorial notebooks)
-- Understanding Deep Learning, 2024 (Simon Prince)
+- Format inspired by UvA Deep Learning course, 2023 [Phillip Lippe's amazing tutorial notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/)
 
-
-This is currently a placeholder.
