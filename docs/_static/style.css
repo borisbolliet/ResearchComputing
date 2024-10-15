@@ -1,3 +1,21 @@
 .wy-nav-content {
 	max-width: 1200px !important;
 }
+
+
+.exercise-box {
+    border: 2px solid #4CAF50;  /* Green border */
+    padding: 15px;
+    background-color: #f0f9ff;  /* Light blue background */
+    border-radius: 10px;        /* Rounded corners */
+    margin: 20px 0;
+}
+
+/* .exercise-box p {
+    font-size: 16px;
+    color: #333;
+} */
+
+.exercise-box p {
+    margin: 0;
+}

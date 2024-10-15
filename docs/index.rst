@@ -29,6 +29,7 @@ Schedule
    :numbered:
 
    material/lecture1/notebook
+   material/lecture2/notebook
 ..    material/lecture1/gitlab
 ..    material/lecture1/notebook_camhpc
 ..    material/lecture1/notebook_camhpc_cosmo
