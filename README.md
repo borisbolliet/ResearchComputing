@@ -5,6 +5,8 @@ Author: Boris Bolliet
 
 The course moodle is [here](https://www.vle.cam.ac.uk/course/view.php?id=252189).
 
+The course readthedocs is [here](https://researchcomputing.readthedocs.io/en/latest/)
+
 
 Based on material from many sources, including:
 - James Fergusson's lecture notes (private communication)
