@@ -9,19 +9,26 @@ Research Computing and Software Development
 | *Author*: Boris Bolliet
 
 .. note::
-   Teaching Schedule and Material for the MPhil in Dat Intensive Science, Michaelmas Term 2024 at the University of Cambridge 
+   Teaching Schedule and Material for the MPhil in Dat Intensive Science, Michaelmas Term 2024 at the University of Cambridge. 
+
 
 
 Schedule 
 ----------------------------------------
 
-+------------------------------------------+---------------------------------------------------------------+
-| **Date**                                 | **Content**                                                   |
-+------------------------------------------+---------------------------------------------------------------+
-| Friday 11, October 2024, 11:00-12:00     | Lecture 1: Getting started                                    |
-+------------------------------------------+---------------------------------------------------------------+
-| Tuesday 15, October 2024, 11:00-12:00    | Lecture 2: Knowing your environment (bash)                    |
-+------------------------------------------+---------------------------------------------------------------+
+Time: Tuesdays, Wednesdays, Fridays between 11:00 and 12:00. 
+
+Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
+
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| **Date**                           | **Content**                                                                                                             |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Friday 11, October                 | Lecture 1: `Getting started <material/lecture1/notebook.ipynb#Getting-started>`_                                        |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Tuesday 15, October                | Lecture 2: `Knowing your environment (bash) <material/lecture2/notebook.ipynb#Knowing-your-environment>`_               |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Wednesday 16, October              | Lecture 2: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_   |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 
 
