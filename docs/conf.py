@@ -79,4 +79,5 @@ exclude_patterns = [
     # 'material/tbd/notebook_camhpc_cosmo.ipynb',  # Exclude specific file
     'material/tbd/*',  # Exclude all files in the 'tbd' folder
     'material/lecture1/gitlab.ipynb',
+    'venvs/*',
 ]
