@@ -29,6 +29,9 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Wednesday 16, October              | Lecture 2: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_   |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Friday 18, October                 | Lecture 3: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                   |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+
 
 This course builds on material from James Fergusson's made availble to 
 UoC students under the `course archive <https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads>`_.
