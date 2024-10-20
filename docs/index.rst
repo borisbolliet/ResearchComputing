@@ -11,6 +11,15 @@
 Research Computing and Software Development
 ===============================================================================
 
+.. image:: https://img.shields.io/github/stars/borisbolliet/ResearchComputing?style=social
+   :alt: GitHub stars
+   :target: https://github.com/borisbolliet/ResearchComputing
+
+.. image:: https://readthedocs.org/projects/researchcomputing/badge/?version=latest
+   :target: https://researchcomputing.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
+
+
 
 | *Author*: Boris Bolliet
 
