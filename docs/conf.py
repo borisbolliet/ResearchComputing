@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'UoC MPhil DiS Research Computing'
+project = 'UoC MPhil Data Intensive Science and MPhil Economics and Data Science'
 copyright = '2024, Boris Bolliet'
 author = 'Boris Bolliet'
 

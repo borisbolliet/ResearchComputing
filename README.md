@@ -3,6 +3,8 @@ Research Computing and Software Developpment for Data Intensive Science
 
 Author: Boris Bolliet (University of Cambridge)
 
+This course is taught to the MPhil in Data Intensive Science and the MPhil in Economics and Data Science.
+
 The course moodle is [here](https://www.vle.cam.ac.uk/course/view.php?id=252189).
 
 The course readthedocs is [here](https://researchcomputing.readthedocs.io/en/latest/).

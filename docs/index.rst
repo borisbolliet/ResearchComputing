@@ -9,7 +9,7 @@ Research Computing and Software Development
 | *Author*: Boris Bolliet
 
 .. note::
-   Teaching Schedule and Material for the MPhil in Dat Intensive Science, Michaelmas Term 2024 at the University of Cambridge. 
+   Teaching Schedule and Material for the MPhil in Data Intensive Science and the MPhil in Economics and Data Science, Michaelmas Term 2024 at the University of Cambridge. 
 
 
 
@@ -60,9 +60,12 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 ..    .. material/ec2/notebook
 
 
-.. .. toctree::
-..    :caption: Miscellaneous
-..    :maxdepth: 3
+.. toctree::
+   :caption: Miscellaneous
+   :maxdepth: 3
+
+   material/misc1/vscode-remote
+   material/misc1/jupyter-remote
 
 ..    .. material/misc1/FTimage2d
 ..    .. material/misc1/convolutions
