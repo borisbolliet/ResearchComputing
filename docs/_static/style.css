@@ -19,3 +19,8 @@
 .exercise-box p {
     margin: 0;
 }
+
+.wy-side-nav-search .logo {
+    max-width: 200px;  /* Adjust this based on your needs */
+    height: auto;
+}

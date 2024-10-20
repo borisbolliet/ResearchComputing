@@ -17,6 +17,10 @@ nbsphinx_kernel_name = 'python3'
 
 import sphinx_rtd_theme
 
+# Path to the logo image relative to the `_static` directory
+# html_static_path = ['_static']
+# html_logo = "_static/logo.jpg"
+
 # -- Project information -----------------------------------------------------
 
 project = 'UoC MPhil Data Intensive Science and MPhil Economics and Data Science'

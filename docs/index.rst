@@ -3,14 +3,26 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. .. figure:: logo.jpg
+..    :alt: Course Logo
+..    :align: left
+..    :width: 200px
+
 Research Computing and Software Development
-===========================================
+===============================================================================
+
 
 | *Author*: Boris Bolliet
 
 .. note::
-   Teaching Schedule and Material for the MPhil in Data Intensive Science and the MPhil in Economics and Data Science, Michaelmas Term 2024 at the University of Cambridge. 
+   Teaching Schedule and Material for the 
+   `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_ and the 
+   `MPhil in Economics and Data Science <https://www.econ.cam.ac.uk/postgraduate-studies/mphil-data>`_, Michaelmas Term 2024 at the University of Cambridge. 
 
+Goal
+----------------------------------------
+
+This course aims to equip you with the computing and software development skills that you will need to work as researchers and data scientists in the age of artificial intelligence.
 
 
 Schedule 
@@ -23,13 +35,13 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | **Date**                           | **Content**                                                                                                             |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Friday 11, October                 | Lecture 1: `Getting started <material/lecture1/notebook.ipynb#Getting-started>`_                                        |
+| Fri 11, October                    | Part 1: `Getting started <material/lecture1/notebook.ipynb#Getting-started>`_                                           |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tuesday 15, October                | Lecture 2: `Knowing your environment (bash) <material/lecture2/notebook.ipynb#Knowing-your-environment>`_               |
+| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/lecture2/notebook.ipynb#Knowing-your-environment>`_                  |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wednesday 16, October              | Lecture 2: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_   |
+| Wed 16, October                    | Part 3: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_      |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Friday 18, October                 | Lecture 3: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                   |
+| Fri 18, October                    | Part 4: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                      |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 
