@@ -44,15 +44,16 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | **Date**                           | **Content**                                                                                                             |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 11, October                    | Part 1: `Getting started <material/lecture1/notebook.ipynb#Getting-started>`_                                           |
+| Fri 11, October                    | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                              |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/lecture2/notebook.ipynb#Knowing-your-environment>`_                  |
+| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                     |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/lecture2/notebook.ipynb#Knowing-your-environment>`_      |
+| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_         |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/lecture2/notebook.ipynb#Python-environment>`_                      |
+| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                         |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-
+| Tue 22, October                    | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_               |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 This course builds on material from James Fergusson's made availble to 
 UoC students under the `course archive <https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads>`_.
@@ -64,8 +65,9 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    :maxdepth: 2
    :numbered:
 
-   material/lecture1/notebook
-   material/lecture2/notebook
+   material/part1/notebook
+   material/part2/notebook
+   material/part3/notebook
 ..    material/lecture1/gitlab
 ..    material/lecture1/notebook_camhpc
 ..    material/lecture1/notebook_camhpc_cosmo
