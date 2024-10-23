@@ -54,6 +54,8 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Tue 22, October                    | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_               |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Wed 23, October                    | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                      |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 This course builds on material from James Fergusson's made availble to 
 UoC students under the `course archive <https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads>`_.
