@@ -58,6 +58,10 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Fri 25, October                    | Part 4: `Building your Python package <material/part4/notebook.ipynb#Building-your-Python-package>`_                    |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                          |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+
+
 
 This course builds on material from James Fergusson's made availble to 
 UoC students under the `course archive <https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads>`_.
@@ -73,6 +77,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part2/notebook
    material/part3/notebook
    material/part4/notebook
+   material/part5/notebook
 ..    material/lecture1/gitlab
 ..    material/lecture1/notebook_camhpc
 ..    material/lecture1/notebook_camhpc_cosmo
