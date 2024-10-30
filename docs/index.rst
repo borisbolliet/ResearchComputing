@@ -60,6 +60,8 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                          |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Wed 30, October                    | Part 6: `Sphinx documentation <material/part6/notebook.ipynb#Sphinx-documentation>`_                                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -78,6 +80,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part3/notebook
    material/part4/notebook
    material/part5/notebook
+   material/part6/notebook
 ..    material/lecture1/gitlab
 ..    material/lecture1/notebook_camhpc
 ..    material/lecture1/notebook_camhpc_cosmo
