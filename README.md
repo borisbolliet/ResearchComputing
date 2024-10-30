@@ -1,5 +1,7 @@
-Research Computing and Software Development for Data Intensive Science
-===========================
+
+Research Computing and Software Developpment for Data Intensive Science
+=======================================================================
+
 
 Author: Boris Bolliet (University of Cambridge)
 
