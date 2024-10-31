@@ -41,29 +41,29 @@ Time: Tuesdays, Wednesdays, Fridays between 11:00 and 12:00.
 
 Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| **Date**                           | **Content**                                                                                                             |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 11, October                    | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                              |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                     |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_         |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                         |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tue 22, October                    | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_               |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 23, October                    | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                      |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 25, October                    | Part 4: `Building your Python package <material/part4/notebook.ipynb#Building-your-Python-package>`_                    |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                          |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 30, October                    | Part 5: `Docker Images and Containers <material/part5/notebook.ipynb#Docker-Images-and-Containers>`_                    |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Fri 1, November                    | Part 6: `Automatic documentation <material/part6/notebook.ipynb#Automatic-documentation>`_                              |
-+------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| **Date**                           | **Content**                                                                                                                            |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 11, October                    | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                             |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                                    |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_                        |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                                        |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Tue 22, October                    | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_                              |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Wed 23, October                    | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                                     |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 25, October                    | Part 4: `Building your Python package <material/part4/notebook.ipynb#Building-your-Python-package>`_                                   |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                                         |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Wed 30, October                    | Part 5: `Docker Images and Containers <material/part5/notebook.ipynb#Docker-Images-and-Containers>`_                                   |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 1, November                    | Part 6: `Docs <material/part6/notebook.ipynb#Automatic-documentation>`_  and `Tests <material/part7/notebook.ipynb#Tests-and-Errors>`_ |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -83,11 +83,8 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part4/notebook
    material/part5/notebook
    material/part6/notebook
-..    material/lecture1/gitlab
-..    material/lecture1/notebook_camhpc
-..    material/lecture1/notebook_camhpc_cosmo
-..    material/lecture2/notebook_google_colab
-..    material/lecture2/notebook_python_packages
+   material/part7/notebook
+
 
 
 .. .. toctree::
