@@ -60,7 +60,9 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 | Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                          |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
-| Wed 30, October                    | Part 6: `Sphinx documentation <material/part6/notebook.ipynb#Sphinx-documentation>`_                                    |
+| Wed 30, October                    | Part 5: `Docker Images and Containers <material/part5/notebook.ipynb#Docker-Images-and-Containers>`_                    |
++------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| Fri 1, November                    | Part 6: `Sphinx documentation <material/part6/notebook.ipynb#Sphinx-documentation>`_                                    |
 +------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
 
 
