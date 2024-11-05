@@ -20,7 +20,6 @@ Research Computing and Software Development
    :alt: Documentation Status
 
 
-
 | *Author*: Boris Bolliet
 
 .. note::
@@ -64,6 +63,8 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 | Fri 1, November                    | Part 6 and 7: `Docs <material/part6/notebook.ipynb#Automatic-documentation>`_  and `Tests <material/part7/notebook.ipynb#Tests-and-Errors>`_ |
 +------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+| Tue 4, November                    | Part 8 and 9: `PyPi <material/part8/notebook.ipynb#Python-Package-Index>`_  and `CI <material/part9/notebook.ipynb#Continuous-Integration>`_ |
++------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -84,6 +85,8 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part5/notebook
    material/part6/notebook
    material/part7/notebook
+   material/part8/notebook
+   material/part9/notebook
 
 
 
@@ -101,6 +104,16 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
    material/misc1/vscode-remote
    material/misc1/jupyter-remote
+
+..    .. material/misc1/FTimage2d
+..    .. material/misc1/convolutions
+
+
+.. toctree::
+   :caption: Example Classes
+   :maxdepth: 3
+
+   material/ec2/ec2_solutions
 
 ..    .. material/misc1/FTimage2d
 ..    .. material/misc1/convolutions

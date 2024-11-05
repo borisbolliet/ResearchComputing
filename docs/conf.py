@@ -41,6 +41,7 @@ extensions = [
 	'sphinx.ext.mathjax',
 	'sphinx_rtd_theme',
     'sphinx_gallery.load_style',  # load CSS for gallery (needs SG >= 0.6)
+    'sphinx.ext.githubpages',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -85,3 +86,9 @@ exclude_patterns = [
     'material/lecture1/gitlab.ipynb',
     'venvs/*',
 ]
+
+# Add GitHub repository settings
+html_theme_options = {
+    'repository_url': 'https://github.com/borisbolliet/ResearchComputing',
+    'use_repository_button': True,
+}
