@@ -67,6 +67,8 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Wed 6, November                    | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential packages <material/part11/notebook.ipynb#Essential-packages>`_     |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 8, November                    | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-packages>`_                                                                   |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 This course builds on material from James Fergusson's made availble to 
