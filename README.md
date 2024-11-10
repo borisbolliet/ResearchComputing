@@ -2,6 +2,8 @@
 Research Computing and Software Development for Data Intensive Science
 =======================================================================
 
+[![Documentation Status](https://readthedocs.org/projects/researchcomputing/badge/?version=latest)](https://researchcomputing.readthedocs.io/en/latest/?badge=latest)
+
 
 Author: Boris Bolliet (University of Cambridge)
 
