@@ -65,7 +65,7 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Tue 5, November                    | Part 8 and 9: `PyPi <material/part8/notebook.ipynb#Python-Package-Index>`_  and `CI <material/part9/notebook.ipynb#Continuous-Integration>`_      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 6, November                    | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential packages <material/part11/notebook.ipynb#Essential-packages>`_     |
+| Wed 6, November                    | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential tools <material/part11/notebook.ipynb#Essential-tools>`_           |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Fri 8, November                    | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-packages>`_                                                                   |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -103,7 +103,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
 ..    .. material/ec1/notebook
 ..    .. material/ec2/notebook
-
+..    .. material/ec3/interpolation_q
 
 .. toctree::
    :caption: Miscellaneous
@@ -121,7 +121,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    :maxdepth: 3
 
    material/ec2/ec2_solutions
-
+   material/ec3/interpolation_q
 ..    .. material/misc1/FTimage2d
 ..    .. material/misc1/convolutions
 
