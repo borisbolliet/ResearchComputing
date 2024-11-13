@@ -20,7 +20,7 @@ Research Computing and Software Development
    :alt: Documentation Status
 
 
-| *Author*: Boris Bolliet
+| *Author*: [Boris Bolliet](https://github.com/borisbolliet)
 
 .. note::
    Teaching Schedule and Material for the 
