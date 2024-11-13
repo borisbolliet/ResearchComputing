@@ -5,7 +5,7 @@ Research Computing and Software Development for Data Intensive Science
 [![Documentation Status](https://readthedocs.org/projects/researchcomputing/badge/?version=latest)](https://researchcomputing.readthedocs.io/en/latest/?badge=latest)
 
 
-Author: Boris Bolliet (University of Cambridge)
+Author: [Boris Bolliet](https://github.com/borisbolliet) (University of Cambridge)
 
 This course is taught to the MPhil in Data Intensive Science and the MPhil in Economics and Data Science.
 
