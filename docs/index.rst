@@ -67,9 +67,11 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Wed 6, November                    | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential tools <material/part11/notebook.ipynb#Essential-tools>`_           |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 8, November                    | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-packages>`_                                                                   |
+| Fri 8, November                    | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 12, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-packages>`_                                                                             |
+| Tue 12, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Wed 13, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
