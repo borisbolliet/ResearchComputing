@@ -73,9 +73,10 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Wed 13, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 15, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
+| Fri 15, November                   | Part 11: `FFT <material/part11/notebook.ipynb#Essential-tools>`_                                                                                  |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-
+| Tue 19, November                   | Part 12: `Wavelet Scattering Transform <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                            |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 This course builds on material from James Fergusson's made availble to 
 UoC students under the `course archive <https://gitlab.developers.cam.ac.uk/phy/data-intensive-science-mphil/lecture-materials/c1_research_computing/-/tree/main/course_archive?ref_type=heads>`_.
@@ -98,7 +99,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part9/notebook
    material/part10/notebook
    material/part11/notebook
-
+   material/part12/notebook
 
 
 .. .. toctree::
