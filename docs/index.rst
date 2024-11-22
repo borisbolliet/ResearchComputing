@@ -36,52 +36,54 @@ This course aims to equip you with the computing and software development skills
 Schedule 
 ----------------------------------------
 
-Time: Tuesdays, Wednesdays, Fridays between 11:00 and 12:00. 
+
+
+Time: Tuesdays, Wednesdays, Fridays between 11:00 and 12:00. 24 lectures. 
 
 Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
+
 
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Date**                           | **Content**                                                                                                                                       |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 11, October                    | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                                        |
+| 1 Fri 11, October                  | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                                        |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 15, October                    | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                                               |
+| 2 Tue 15, October                  | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                                               |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 16, October                    | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_                                   |
+| 3 Wed 16, October                  | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_                                   |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 18, October                    | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                                                   |
+| 4 Fri 18, October                  | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                                                   |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 22, October                    | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_                                         |
+| 5 Tue 22, October                  | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_                                         |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 23, October                    | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                                                |
+| 6 Wed 23, October                  | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 25, October                    | Part 4: `Building your Python package <material/part4/notebook.ipynb#Building-your-Python-package>`_                                              |
+| 7 Fri 25, October                  | Part 4: `Building your Python package <material/part4/notebook.ipynb#Building-your-Python-package>`_                                              |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 29, October                    | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                                                    |
+| 8 Tue 29, October                  | Part 5: `Distributing your package <material/part5/notebook.ipynb#Distributing-your-package>`_                                                    |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 30, October                    | Part 5: `Docker Images and Containers <material/part5/notebook.ipynb#Docker-Images-and-Containers>`_                                              |
+| 9 Wed 30, October                  | Part 5: `Docker Images and Containers <material/part5/notebook.ipynb#Docker-Images-and-Containers>`_                                              |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 1, November                    | Part 6 and 7: `Docs <material/part6/notebook.ipynb#Automatic-documentation>`_  and `Tests <material/part7/notebook.ipynb#Tests-and-Errors>`_      |
+| 10 Fri 1, November                 | Part 6 and 7: `Docs <material/part6/notebook.ipynb#Automatic-documentation>`_  and `Tests <material/part7/notebook.ipynb#Tests-and-Errors>`_      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 5, November                    | Part 8 and 9: `PyPi <material/part8/notebook.ipynb#Python-Package-Index>`_  and `CI <material/part9/notebook.ipynb#Continuous-Integration>`_      |
+| 11 Tue 5, November                 | Part 8 and 9: `PyPi <material/part8/notebook.ipynb#Python-Package-Index>`_  and `CI <material/part9/notebook.ipynb#Continuous-Integration>`_      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 6, November                    | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential tools <material/part11/notebook.ipynb#Essential-tools>`_           |
+| 12 Wed 6, November                 | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential tools <material/part11/notebook.ipynb#Essential-tools>`_           |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 8, November                    | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                      |
+| 13 Fri 8, November                 | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 12, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
+| 14 Tue 12, November                | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 13, November                   | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
+| 15 Wed 13, November                | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 15, November                   | Part 11: `FFT <material/part11/notebook.ipynb#Essential-tools>`_                                                                                  |
+| 16 Fri 15, November                | Part 11: `FFT <material/part11/notebook.ipynb#Essential-tools>`_                                                                                  |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tue 19, November                   | Part 12: `Wavelet Scattering Transform <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                            |
+| 17 Tue 19, November                | Part 12: `Wavelet Scattering Transform <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                            |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Wed 20, November                   | Part 12: `Wavelet Scattering Transform [continued] <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                |
+| 18 Wed 20, November                | Part 12: `Wavelet Scattering Transform [continued] <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| Fri 22, November                   | Part 13: `Advanced Python <material/part13/notebook.ipynb#Advanced-Python>`_                                                                      |
+| 19 Fri 22, November                | Part 13: `Advanced Python <material/part13/notebook.ipynb#Advanced-Python>`_                                                                      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-
 
 
 This course builds on material from James Fergusson's made availble to 
