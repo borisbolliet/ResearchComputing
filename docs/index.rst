@@ -79,6 +79,8 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Wed 20, November                   | Part 12: `Wavelet Scattering Transform [continued] <material/part12/notebook.ipynb#Wavelet-Scattering-Transform>`_                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fri 22, November                   | Part 13: `Advanced Python <material/part13/notebook.ipynb#Advanced-Python>`_                                                                      |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 
@@ -104,7 +106,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part10/notebook
    material/part11/notebook
    material/part12/notebook
-
+   material/part13/notebook
 
 .. .. toctree::
 ..    :caption: Example Classes
