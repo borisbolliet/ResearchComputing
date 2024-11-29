@@ -84,6 +84,10 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 19 Fri 22, November                | Part 13: `Advanced Python <material/part13/notebook.ipynb#Advanced-Python>`_                                                                      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 20 Tue 26, November                | Part 14: `Optimization and Algorithm Complexity <material/part14/notebook.ipynb#Optimization-and-Algorithm-Complexity>`_                          |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 21 Fri 29, November                | Part 15: `Multi-language programming <material/part15/notebook.ipynb#Multi-language-programming>`_                                                |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 This course builds on material from James Fergusson's made availble to 
@@ -109,7 +113,8 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part11/notebook
    material/part12/notebook
    material/part13/notebook
-
+   material/part14/notebook
+   material/part15/notebook
 .. .. toctree::
 ..    :caption: Example Classes
 ..    :maxdepth: 3
