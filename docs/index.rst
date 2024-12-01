@@ -48,13 +48,13 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 1 Fri 11, October                  | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                                        |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2 Tue 15, October                  | Part 2: `Knowing your environment (bash) <material/part2/notebook.ipynb#Knowing-your-environment>`_                                               |
+| 2 Tue 15, October                  | Part 2: `Terminal <material/part2/notebook.ipynb#Knowing-your-environment>`_                                                                      |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3 Wed 16, October                  | Part 2: `Knowing your environment (bash) [continued] <material/part2/notebook.ipynb#Knowing-your-environment>`_                                   |
+| 3 Wed 16, October                  | Part 2: `Bash <material/part2/notebook.ipynb#Knowing-your-environment>`_                                                                          |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4 Fri 18, October                  | Part 2: `Knowing your environment (python) <material/part2/notebook.ipynb#Python-environment>`_                                                   |
+| 4 Fri 18, October                  | Part 2: `Python <material/part2/notebook.ipynb#Python-environment>`_                                                                              |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5 Tue 22, October                  | Part 2: `Knowing your environment (jupyter) <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_                                         |
+| 5 Tue 22, October                  | Part 2: `Jupyter <material/part2/notebook.ipynb#Jupyter-and-IPython-kernels>`_                                                                    |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 6 Wed 23, October                  | Part 3: `Git <material/part3/notebook.ipynb#Git>`_                                                                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -70,11 +70,11 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 12 Wed 6, November                 | Part 10 and 11: `Conda <material/part10/notebook.ipynb#Conda>`_ and `Essential tools <material/part11/notebook.ipynb#Essential-tools>`_           |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 13 Fri 8, November                 | Part 11: `Numpy and scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                      |
+| 13 Fri 8, November                 | Part 11: `Simple operations <material/part11/notebook.ipynb#Essential-tools>`_                                                                    |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 14 Tue 12, November                | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
+| 14 Tue 12, November                | Part 11: `Optimisation <material/part11/notebook.ipynb#Essential-tools>`_                                                                         |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 15 Wed 13, November                | Part 11: `Scipy <material/part11/notebook.ipynb#Essential-tools>`_                                                                                |
+| 15 Wed 13, November                | Part 11: `Linear Algebra <material/part11/notebook.ipynb#Essential-tools>`_                                                                       |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 16 Fri 15, November                | Part 11: `FFT <material/part11/notebook.ipynb#Essential-tools>`_                                                                                  |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -88,6 +88,14 @@ Location: Small Lecture Theatre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 21 Fri 29, November                | Part 15: `Multi-language programming <material/part15/notebook.ipynb#Multi-language-programming>`_                                                |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 22 Mon 2, December                 | Part 16: `Random Matrices <material/part16/notebook.ipynb#Random-Matrices>`_                                                                      |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 23 Tue 3, December                 | Part 17: `Multi-Agent Systems <material/part17/notebook.ipynb#Multi-Agent-Systems>`_                                                              |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 24 Wed 4, December                 | Recap and feedback                                                                                                                                |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
 
 
 This course builds on material from James Fergusson's made availble to 
@@ -115,6 +123,8 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part13/notebook
    material/part14/notebook
    material/part15/notebook
+   material/part16/notebook
+   material/part17/notebook
 .. .. toctree::
 ..    :caption: Example Classes
 ..    :maxdepth: 3
