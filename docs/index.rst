@@ -150,7 +150,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
    material/ec2/ec2_solutions
    material/ec3/interpolation_q
-   material/ec4/ec4_q
+   material/ec4/ec4_qs
 ..    .. material/misc1/FTimage2d
 ..    .. material/misc1/convolutions
 
