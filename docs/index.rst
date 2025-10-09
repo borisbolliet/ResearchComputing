@@ -26,7 +26,7 @@ Research Computing and Software Development
    Teaching Schedule and Material for the 
    `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_ and the 
    `MPhil in Economics and Data Science <https://www.econ.cam.ac.uk/apply/postgraduate/courses/mphil-data>`_, Michaelmas Term 2025 at the University of Cambridge. 
-   Open to all students, we are also welcoming students from the `IoA <https://www.ioa.cam.ac.uk/>`_, `PSLU <https://www.pslu.masters.cam.ac.uk/>`_ and more.
+   Open to all students, we are also welcoming students from the `IoA <https://www.ast.cam.ac.uk/>`_, `PSLU <https://www.pslu.masters.cam.ac.uk/>`_ and more.
 
 Goal
 ----------------------------------------
