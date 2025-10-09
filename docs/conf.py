@@ -85,6 +85,7 @@ exclude_patterns = [
     'material/tbd/*',  # Exclude all files in the 'tbd' folder
     'material/lecture1/gitlab.ipynb',
     'venvs/*',
+    'material_bkp/*',  # Exclude ALL material from compilation
 ]
 
 # Add GitHub repository settings

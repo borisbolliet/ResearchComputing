@@ -1,0 +1,9 @@
+name: MphilC124_class
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip=24.2.0
+  - pip:
+    - -r requirements.txt
