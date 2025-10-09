@@ -26,6 +26,7 @@ Research Computing and Software Development
    Teaching Schedule and Material for the 
    `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_ and the 
    `MPhil in Economics and Data Science <https://www.econ.cam.ac.uk/apply/postgraduate/courses/mphil-data>`_, Michaelmas Term 2025 at the University of Cambridge. 
+   Open to all students, we are also welcoming students from the `IoA <https://www.ioa.cam.ac.uk/>`_, `PSLU <https://www.pslu.masters.cam.ac.uk/>`_ and more.
 
 Goal
 ----------------------------------------
@@ -52,7 +53,9 @@ Ray Dolby Centre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Date**                           | **Content**                                                                                                                                       |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-| 1 Thu 9, October                   | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                                        |
+| 1 Thu 9, October                   | Part 0: Motivations (see recording).                                                                                                              |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2 Thu 10, October                  | Part 1: `Getting started <material/part1/notebook.ipynb#Getting-started>`_                                                                        |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
