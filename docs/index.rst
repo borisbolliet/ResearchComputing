@@ -74,6 +74,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    :numbered:
 
    material/part1/notebook
+   material/part2/notebook
 
 
 
