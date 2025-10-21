@@ -24,9 +24,7 @@ Research Computing and Software Development
 
 .. note::
    Teaching Schedule and Material for the 
-   `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_ and the 
-   `MPhil in Economics and Data Science <https://www.econ.cam.ac.uk/apply/postgraduate/courses/mphil-data>`_, Michaelmas Term 2025 at the University of Cambridge. 
-   Open to all students, we are also welcoming students from the `IoA <https://www.ast.cam.ac.uk/>`_, `PSLU <https://www.pslu.masters.cam.ac.uk/>`_ and more.
+   `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_.
 
 Goal
 ----------------------------------------
@@ -63,7 +61,8 @@ Ray Dolby Centre, Cavendish Laboratory, University of Cambridge.
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | 5 Fri 17, October                  | Part 3: Git                                                                                                                                       |
 +------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
-
+| 6 Tue 21, October                  | Part 4: Python Package                                                                                                                            |
++------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 This course builds on material from James Fergusson's made availble to 
@@ -79,6 +78,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part1/notebook
    material/part2/notebook
    material/part3/notebook
+   material/part4/notebook
 
 
 
