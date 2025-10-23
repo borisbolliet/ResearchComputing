@@ -1,11 +1,17 @@
-Sphinx==5.0
-sphinx-rtd-theme==0.5.2
-readthedocs-sphinx-ext
-nbsphinx==0.8.6
+# Core
+Sphinx>=7,<9
+nbsphinx>=0.9.5
+sphinx-rtd-theme>=1.3
+
+# Jupyter + execution
+ipykernel
 ipython
 ipywidgets
-Pygments==2.15.0
-sphinxcontrib-bibtex>=2.1
-sphinxcontrib-svg2pdfconverter
-sphinx-gallery
-ipykernel
+
+# Features you’re already using
+sphinxcontrib-bibtex>=2.6
+sphinxcontrib-svg2pdfconverter>=1.3   # SVG → PDF for LaTeX
+sphinx-gallery>=0.19
+
+# Keep versions reasonably new to avoid old-lexer issues
+Pygments>=2.17
