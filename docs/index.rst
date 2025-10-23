@@ -26,6 +26,9 @@ Research Computing and Software Development
    Teaching Schedule and Material for the 
    `MPhil in Data Intensive Science <https://mphildis.bigdata.cam.ac.uk>`_.
 
+.. note::
+   The course is shared with other MPhil's and programmes at the University of Cambridge. Any information about assessments, courseworks, etc. provided here and in class by Boris Bolliet are relevant to the MPhil in Data Intensive Science only. All assessments for this course for Economics and Data Science students is arranged separately by the Faculty of Economics. Please, contact the director of the MPhil in Economics and Data Science program `Alexei Onatski <ao319@cam.ac.uk>`_ with specific questions about the form and the arrangements of these assessments.
+
 Goal
 ----------------------------------------
 
