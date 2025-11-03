@@ -116,6 +116,8 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    :caption: Example Classes
    :maxdepth: 3
 
+   material/ec2/ec2_solutions.ipynb
+
 
 
 Useful Resources and further reading
