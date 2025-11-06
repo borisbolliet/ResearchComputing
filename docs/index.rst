@@ -97,6 +97,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    material/part4/notebook
    material/part5/notebook
    material/computing/computing
+   fast_api
 
 
 
