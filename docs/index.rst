@@ -70,19 +70,19 @@ Ray Dolby Centre, Cavendish Laboratory, University of Cambridge.
  +----+---------------------------+------------------------------------------------------------------------------------+
  | 8  | Fri 24, October           | Python Package: Distribution                                                       |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 9  | Tue 28, October           | Basic Python                                                                       |
+ | 9  | Tue 28, October           | Basic Computing in Python                                                          |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 10 | Tue 28, October           | Basic Computing in Python                                                          |
+ | 10 | Thu 30, October           | More Advanced Computing in Python                                                  |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 11 | Thu 30, October           | More Advanced Computing in Python                                                  |
+ | 11 | Fri 31, October           | Basic Signal Processing Tools                                                      |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 12 | Fri 31, October           | Basic Signal Processing Tools                                                      |
+ | 12 | Tue 4, November           | Test and Docs                                                                      |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 13 | Tue 4, November           | Test and Docs                                                                      |
+ | 13 | Thu 6, November           | Full Stack: FastAPI Backend                                                        |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 14 | Thu 6, November           | Full Stack: FastAPI Backend                                                        |
+ | 14 | Fri 7, November           | Full Stack: Next.js Frontend                                                       |
  +----+---------------------------+------------------------------------------------------------------------------------+
- | 15 | Fri 7, November           | Full Stack: Next.js Frontend                                                        |
+ | 15 | Tue 11, November          | Full Stack: Deployment                                                             |
  +----+---------------------------+------------------------------------------------------------------------------------+
 
 
@@ -102,11 +102,18 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
    material/part1/notebook
    material/part2/notebook
+   material/conda/conda.ipynb
    material/part3/notebook
    material/part4/notebook
-   material/part5/notebook
+   material/distribution/distribution.ipynb
+   material/pypi/PyPi.ipynb
+   material/documentation/documentation_notebook.ipynb
+   material/tests_and_errors/tests_and_errors.ipynb
    material/computing/computing
+   material/AdvancedPython/advanced_python.ipynb
+   material/multilanguage/multilanguage.ipynb
    fast_api
+   material/CI/ci.ipynb
 
 
 

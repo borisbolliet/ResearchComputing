@@ -11,3 +11,4 @@ docs/material/data/host_jupyter/.ipynb_checkpoints/after-checkpoint.sh
 docs/_build
 tbd
 venvs
+fastapi
