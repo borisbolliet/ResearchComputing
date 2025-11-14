@@ -86,6 +86,8 @@ Ray Dolby Centre, Cavendish Laboratory, University of Cambridge.
  +----+---------------------------+------------------------------------------------------------------------------------+
  | 16 | Thu 13, November          | More Advanced Python Concepts                                                      |
  +----+---------------------------+------------------------------------------------------------------------------------+
+ | 17 | Fri 14, November          | Multi-language Programming                                                         |
+ +----+---------------------------+------------------------------------------------------------------------------------+
 
 
 
@@ -121,6 +123,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
 
 
+
 .. toctree::
    :caption: Miscellaneous
    :maxdepth: 3
@@ -136,6 +139,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
    :maxdepth: 3
 
    material/ec2/ec2_solutions.ipynb
+   material/interpolation_q.ipynb
 
 
 
