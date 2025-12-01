@@ -140,6 +140,7 @@ Also for UoC students, the course moodle is `here <https://www.vle.cam.ac.uk/cou
 
    material/ec2/ec2_solutions.ipynb
    material/interpolation_q.ipynb
+   material/interpolation_with_neural_networks.ipynb
 
 
 
